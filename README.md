@@ -10,7 +10,7 @@
 Email me at dmkumar2507@gmail.com for any inquiries or requests!
 ```
 
-<a href="https://daman.vercel.app">Learn more about me </a>
+<a href="https://kumar-daman.vercel.app">Learn more about me </a>
 
 <!--
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
