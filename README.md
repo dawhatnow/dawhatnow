@@ -30,3 +30,5 @@ Email me at dmkumar2507@gmail.com for any inquiries or requests!
 
 
 <!--### Learn more about me-->
+
+![](https://komarev.com/ghpvc/?username=dawhatnow)
