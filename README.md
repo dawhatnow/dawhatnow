@@ -2,15 +2,14 @@
 
 
 ```python
-- Software Engineering and Statistics student from Kitchener-Waterloo
+- Software Engineering and Statistics student from Waterloo
 - University of Guelph (4th Year)
 - Prev. @ Equitable, ONGov and UoG
 - looking for Summer internship opportunities in 2027
 
 Email me at dmkumar2507@gmail.com for any inquiries or requests!
 ```
-
-<a href="https://damandev.vercel.app">Learn more about me </a>
+<a href="https://damandev.vercel.app">View my website </a>
 
 <!--
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
