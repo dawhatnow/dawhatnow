@@ -8,9 +8,9 @@
 - looking for Summer internship opportunities in 2027
 
 Email me at dmkumar2507@gmail.com for any inquiries or requests!
-
-<a href="https://damandev.vercel.app">View my website </a>
 ```
+<a href="https://damandev.vercel.app">View my website </a>
+
 <!--
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
 <img align="left" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;" />
